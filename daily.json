@@ -1,21 +1,21 @@
 {
-  "title": "Mengapa es bisa mengapung di atas air",
-  "topic": "Mengapa es bisa mengapung di atas air",
-  "caption": "Mengapa es bisa mengapung di atas air. Satu cerita, satu insight, lalu satu hal yang bisa dicoba.",
+  "title": "Kenapa gelembung sabun punya warna seperti pelangi",
+  "topic": "Kenapa gelembung sabun punya warna seperti pelangi",
+  "caption": "Kenapa gelembung sabun punya warna seperti pelangi. Satu cerita, satu insight, lalu satu hal yang bisa dicoba.",
   "hashtags": [
     "#faktamenarik",
     "#edukasi",
     "#storytelling",
     "#tiktokindonesia"
   ],
-  "script": "Tiga hal tentang es bisa mengapung di atas air ini sering tidak dibahas. Yang terakhir paling penting. Pertama, pahami konteks. Kedua, cek bukti atau data. Ketiga, pilih satu langkah kecil untuk diuji. Kalau harus memilih satu, mulai dari langkah yang paling mudah diuji.",
-  "call_to_action": "Kalau harus memilih satu, mulai dari langkah yang paling mudah diuji. Follow untuk eksperimen dan insight berikutnya. Simpan atau bagikan jika berguna.",
-  "style": "STORY",
-  "format": "LIST_SURPRISE",
-  "duration_seconds": 24,
+  "script": "A atau B? Untuk gelembung sabun punya warna seperti pelangi, jawabannya ternyata tergantung situasinya. Bandingkan tujuan, biaya, waktu, risiko, dan hasil yang mungkin. Untuk gelembung sabun punya warna seperti pelangi, pendekatan yang tepat bergantung pada kondisi, bukan sekadar tren. Pilihan yang masuk akal selalu kembali pada tujuan dan kondisi masing-masing.",
+  "call_to_action": "Pilihan yang masuk akal selalu kembali pada tujuan dan kondisi masing-masing. Follow untuk eksperimen dan insight berikutnya. Simpan atau bagikan jika berguna.",
+  "style": "EDUCATION",
+  "format": "COMPARE_ACTION",
+  "duration_seconds": 34,
   "privacy_level": "SELF_ONLY",
   "is_aigc": true,
   "queue_status": "READY_FOR_MANUAL_UPLOAD",
   "video_path": "/data/data/com.termux/files/home/RINA/rina-tiktok-media/daily.mp4",
-  "updated_at": "2026-09-20T06:37:46"
+  "updated_at": "2026-09-20T09:21:20"
 }
